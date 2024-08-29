@@ -1,6 +1,6 @@
 <img align="center" width="100%" height="250" src="github-header-image.png" >
 <h1 align="center"  style="color:rgb(132, 23, 23); ">Mr. Fiscus Lyrate</h1>
-<h3 align="center">i eat kids.</h3>
+<h3 align="center">Sup mate?.</h3>
 <br>
 <br>
 <img align="right" width="400" src="https://media1.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" >
