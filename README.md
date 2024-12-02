@@ -1,5 +1,4 @@
 
-<h1 align="center"  style="color:rgb(132, 23, 23); ">Mr. Fiscus Lyrate</h1>
 <h3 align="center">Just a chill guy who likes to code.</h3>
 <br>
 <br>
