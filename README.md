@@ -1,5 +1,5 @@
 
-<h3 align="center">Just a chill guy who likes to code.</h3>
+<h3 align="center">i love cats and ducks.</h3>
 <br>
 <br>
 <img align="right" width="400" src="https://media1.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" >
