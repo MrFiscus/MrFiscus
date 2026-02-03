@@ -4,7 +4,7 @@
 <br>
 <img align="right" width="400" src="https://media1.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" >
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 
 
