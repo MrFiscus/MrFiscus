@@ -2,7 +2,7 @@
 <h3 align="center">CS Honors @DSU | Web Developer | Cyber Security Enthusiast | </h3>
 <br>
 <br>
-<img align="right" width="400" src="https://media1.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" >
+<!-- <img align="right" width="400" src="https://media1.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" > -->
 
 
 <p align="left" width="300px" >
